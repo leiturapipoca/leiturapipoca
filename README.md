@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiturapipoca&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiturapipoca&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiturapipoca&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiturapipoca&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 💻 Tecnologias que eu uso:
