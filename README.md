@@ -25,4 +25,4 @@
   </a>
 </p>
 
-Coloque python nas tecnologias tbm
+
